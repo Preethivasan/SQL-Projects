@@ -27,12 +27,12 @@ Analyze employee data with advanced SQL queries.
 ---
 ##📁 Folder Structure
 
-SQL-Project/
-├── HR-Analytics/                  → HR domain project
-│   ├── HR_Analytics.sql           → Schema creation + sample data
-│   ├── Queries_HR_Analytics.sql   → SQL queries for analysis
-│   └── README.md                  → (Optional) local project-level readme
-├── README.md                      → Main repository overview
+- SQL-Project/
+- ├── HR-Analytics/                  → HR domain project
+- │  ├── HR_Analytics.sql           → Schema creation + sample data
+- │   ├── Queries_HR_Analytics.sql   → SQL queries for analysis
+- │   └── README.md                  → (Optional) local project-level readme
+- ├── README.md                      → Main repository overview
 
 
 
